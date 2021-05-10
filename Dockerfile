@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.10
 
 LABEL maintainer="Jorge Calavia"
 
